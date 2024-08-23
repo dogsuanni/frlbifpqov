@@ -1,0 +1,5 @@
+com\yupi\yuapiclientsdk\model\User.class
+com\yupi\yuapiclientsdk\YuApiClientConfig.class
+com\yupi\yuapiclientsdk\utils\SignUtils.class
+META-INF\spring-configuration-metadata.json
+com\yupi\yuapiclientsdk\client\YuApiClient.class
